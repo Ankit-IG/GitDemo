@@ -35,6 +35,8 @@ public class day1 {
 	public void gitDemo()
 	{
 		System.out.println("bye");
+		System.out.println("bye2");
+		System.out.println("bye3");
 	}
 	
 }
