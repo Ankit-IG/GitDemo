@@ -30,4 +30,11 @@ public class day1 {
 	{
 		System.out.println("bye");
 	}
+	//New code added by Indian guy
+	@Test
+	public void gitDemo()
+	{
+		System.out.println("bye");
+	}
+	
 }
