@@ -56,5 +56,13 @@ public class day1 {
 		System.out.println("bye3");
 	}
 	
+	@Test
+	public void gitDemo3()
+	{
+		System.out.println("bye");
+		System.out.println("bye2");
+		System.out.println("bye3");
+	}
+	
 	
 }
